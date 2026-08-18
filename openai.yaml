@@ -1,4 +1,0 @@
-interface:
-  display_name: "工程设备清单整理"
-  short_description: "整理工程设备材料清单和采购清单"
-  default_prompt: "使用 $engineering-equipment-organizer 从工程资料中提取并整理设备材料清单，生成采购清单和空白规格待确认表。"
